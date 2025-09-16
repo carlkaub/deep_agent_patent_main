@@ -1,0 +1,14 @@
+{
+  "compound_name": "PF-06928215",
+  "type": "clinical_candidate",
+  "company": "Pfizer",
+  "scaffold": "early_inhibitor",
+  "status": "Early compound",
+  "description": "",
+  "smiles": "CCN(CC)C(=O)c1ccc(N2CCOCC2)cc1",
+  "iupac_name": "C15H22N2O2",
+  "molecular_formula": "C15H22N2O2",
+  "molecular_weight": "262.35",
+  "image_path": "/home/ubuntu/cgas_structures/images/PF-06928215.jpg",
+  "source": "Fallback structure"
+}

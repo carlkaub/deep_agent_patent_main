@@ -1,0 +1,14 @@
+{
+  "compound_name": "Azepino[4,5-b]indolone_core",
+  "type": "scaffold",
+  "company": "",
+  "scaffold": "",
+  "status": "",
+  "description": "Seven-membered ring fused to indolone core",
+  "smiles": "O=c1[nH]c2ccccc2c2c1CCCCC2",
+  "iupac_name": "C14H15NO",
+  "molecular_formula": "C14H15NO",
+  "molecular_weight": "213.28",
+  "image_path": "/home/ubuntu/cgas_structures/images/Azepino[4,5-b]indolone_core.jpg",
+  "source": "Predefined scaffold"
+}

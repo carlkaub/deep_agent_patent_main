@@ -1,0 +1,14 @@
+{
+  "compound_name": "Quinoline_core",
+  "type": "scaffold",
+  "company": "",
+  "scaffold": "",
+  "status": "",
+  "description": "Quinoline heterocycle",
+  "smiles": "c1ccc2ncccc2c1",
+  "iupac_name": "C9H7N",
+  "molecular_formula": "C9H7N",
+  "molecular_weight": "129.16",
+  "image_path": "/home/ubuntu/cgas_structures/images/Quinoline_core.jpg",
+  "source": "Predefined scaffold"
+}

@@ -1,0 +1,204 @@
+
+{
+  "samplePatents": [
+    {
+      "patentNumber": "US10123456B2",
+      "title": "Machine Learning System for Patent Analysis",
+      "abstract": "A system and method for analyzing patent documents using machine learning algorithms to identify prior art, assess patentability, and provide competitive intelligence. The system employs natural language processing and deep learning techniques to extract meaningful insights from patent databases.",
+      "assignee": "Tech Innovation Corp",
+      "inventors": ["John Smith", "Jane Doe"],
+      "filingDate": "2020-03-15",
+      "publicationDate": "2021-09-21",
+      "grantDate": "2022-01-10",
+      "claims": [
+        "A computer-implemented method for patent analysis comprising: receiving patent document data; processing the data using machine learning algorithms; generating analysis results; and presenting the results to a user interface.",
+        "The method of claim 1, wherein the machine learning algorithms include natural language processing techniques.",
+        "The method of claim 1, wherein the analysis results include prior art identification and patentability assessment."
+      ],
+      "classifications": ["G06F16/35", "G06N20/00", "G06F40/30"],
+      "citedPatents": ["US9876543B1", "US8765432A1", "US7654321B2"],
+      "citingPatents": ["US11234567B1", "US11345678A1"]
+    },
+    {
+      "patentNumber": "US10234567B1",
+      "title": "Automated Prior Art Search System",
+      "abstract": "An automated system for conducting comprehensive prior art searches using artificial intelligence and semantic analysis. The system can process multiple patent databases simultaneously and provide ranked results based on relevance and similarity scores.",
+      "assignee": "Patent Search Solutions LLC",
+      "inventors": ["Alice Johnson", "Bob Wilson"],
+      "filingDate": "2019-11-20",
+      "publicationDate": "2021-05-15",
+      "grantDate": "2021-12-03",
+      "claims": [
+        "An automated prior art search system comprising: a database interface module; a semantic analysis engine; a ranking algorithm; and a results presentation module.",
+        "The system of claim 1, wherein the semantic analysis engine uses vector embeddings to determine document similarity.",
+        "The system of claim 1, further comprising a machine learning model trained on patent examiner decisions."
+      ],
+      "classifications": ["G06F16/33", "G06F16/35", "G06N5/04"],
+      "citedPatents": ["US9123456B2", "US8234567A1"],
+      "citingPatents": ["US11456789B1"]
+    }
+  ],
+  "sampleSearchQueries": [
+    {
+      "query": "machine learning patent analysis",
+      "type": "natural_language",
+      "filters": {
+        "dateRange": {
+          "start": "2018-01-01",
+          "end": "2023-12-31"
+        },
+        "classifications": ["G06N", "G06F"],
+        "assignees": ["Google", "Microsoft", "IBM"]
+      }
+    },
+    {
+      "query": "(artificial intelligence OR machine learning) AND (patent OR intellectual property)",
+      "type": "boolean",
+      "filters": {
+        "patentStatus": "granted",
+        "country": "US"
+      }
+    }
+  ],
+  "sampleAnalysisResults": [
+    {
+      "analysisId": "analysis_001",
+      "patentNumber": "US10123456B2",
+      "analysisType": "comprehensive",
+      "status": "completed",
+      "agentResults": {
+        "prior_art": {
+          "confidence": 0.85,
+          "similarPatents": [
+            {
+              "patentNumber": "US9876543B1",
+              "similarity": 0.78,
+              "relevantClaims": [1, 3]
+            },
+            {
+              "patentNumber": "US8765432A1",
+              "similarity": 0.65,
+              "relevantClaims": [2]
+            }
+          ],
+          "noveltyScore": 72
+        },
+        "claims": {
+          "confidence": 0.92,
+          "claimStrength": {
+            "independent": 0.88,
+            "dependent": 0.75
+          },
+          "recommendations": [
+            "Consider narrowing claim 1 to improve patentability",
+            "Add more specific technical details to dependent claims"
+          ]
+        },
+        "market": {
+          "confidence": 0.79,
+          "competitorActivity": "high",
+          "marketTrends": [
+            "Increasing patent filings in AI/ML space",
+            "Focus on practical applications"
+          ],
+          "opportunities": [
+            "Specific industry verticals underexplored",
+            "International filing opportunities"
+          ]
+        },
+        "legal": {
+          "confidence": 0.83,
+          "patentabilityScore": 75,
+          "risks": [
+            "Potential obviousness rejection based on prior art combination",
+            "Abstract idea concerns for certain claims"
+          ],
+          "recommendations": [
+            "Emphasize technical improvements and specific implementations",
+            "Consider continuation applications for broader coverage"
+          ]
+        }
+      },
+      "summary": "The patent shows moderate patentability with a score of 75%. While there is relevant prior art, the specific combination of machine learning techniques for patent analysis appears novel. Recommend strengthening claims with more technical details.",
+      "confidenceScore": 0.85,
+      "processingTime": 45000,
+      "createdAt": "2023-10-15T14:30:00Z",
+      "completedAt": "2023-10-15T14:30:45Z"
+    }
+  ],
+  "sampleBatchJobs": [
+    {
+      "jobId": "batch_001",
+      "jobName": "Q3 Patent Portfolio Analysis",
+      "jobType": "portfolio_analysis",
+      "status": "completed",
+      "totalItems": 150,
+      "completedItems": 150,
+      "failedItems": 0,
+      "progress": 100,
+      "configuration": {
+        "analysisType": "comprehensive",
+        "includeCompetitorAnalysis": true,
+        "generateExecutiveSummary": true
+      },
+      "results": {
+        "averagePatentabilityScore": 68.5,
+        "totalPriorArtReferences": 1247,
+        "competitorOverlap": 23,
+        "recommendedActions": [
+          "File continuation applications for 12 high-value patents",
+          "Consider abandoning 8 low-scoring applications",
+          "Investigate licensing opportunities for 15 patents"
+        ]
+      },
+      "createdAt": "2023-10-10T09:00:00Z",
+      "completedAt": "2023-10-10T11:30:00Z"
+    }
+  ],
+  "sampleUserProfiles": [
+    {
+      "personaType": "inventor",
+      "preferences": {
+        "defaultAnalysisType": "patentability",
+        "notificationSettings": {
+          "email": true,
+          "inApp": true,
+          "frequency": "immediate"
+        },
+        "dashboardWidgets": [
+          "patentability_scores",
+          "recent_searches",
+          "quick_actions",
+          "tips"
+        ]
+      },
+      "dashboardConfig": {
+        "layout": "grid",
+        "theme": "light",
+        "compactMode": false
+      }
+    },
+    {
+      "personaType": "corporate_rd",
+      "preferences": {
+        "defaultAnalysisType": "competitive",
+        "notificationSettings": {
+          "email": true,
+          "inApp": true,
+          "frequency": "daily_digest"
+        },
+        "dashboardWidgets": [
+          "team_activity",
+          "competitive_intelligence",
+          "batch_processing",
+          "portfolio_metrics"
+        ]
+      },
+      "dashboardConfig": {
+        "layout": "columns",
+        "theme": "light",
+        "compactMode": true
+      }
+    }
+  ]
+}

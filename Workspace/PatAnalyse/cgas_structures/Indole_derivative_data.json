@@ -1,0 +1,14 @@
+{
+  "compound_name": "Indole_derivative",
+  "type": "scaffold",
+  "company": "",
+  "scaffold": "",
+  "status": "",
+  "description": "Representative indole derivative",
+  "smiles": "c1ccc2[nH]ccc2c1",
+  "iupac_name": "C8H7N",
+  "molecular_formula": "C8H7N",
+  "molecular_weight": "117.15",
+  "image_path": "/home/ubuntu/cgas_structures/images/Indole_derivative.jpg",
+  "source": "Predefined scaffold"
+}

@@ -1,0 +1,175 @@
+{
+  "patent_families": {
+    "ventus_therapeutics": {
+      "WO2024137752A1": {
+        "title": "Azepino[4,5-b]indolone inhibitors",
+        "assignee": "Ventus Therapeutics U.S., Inc.",
+        "priority_date": "2022-12-20",
+        "filing_date": "2023-12-20",
+        "publication_date": "2024-06-27",
+        "core_scaffold": "Azepino[4,5-b]indolone derivatives",
+        "vent03_link": "Explicit mention of VENT-03 in patent text",
+        "potency_data": {
+          "biochemical_ic50": "<0.001 µM (sub-nanomolar)",
+          "cellular_ic50": "<0.001 µM",
+          "high_potency_examples": [32, 33, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]
+        },
+        "preferred_embodiments": {
+          "X_and_R4": "Halo, particularly chloro",
+          "R7": "Methyl",
+          "specific_compounds": "Listed in Embodiments 57, 58, and 59"
+        },
+        "significance": "Most critical patent for VENT-03 identification"
+      },
+      "WO2023183275A1": {
+        "title": "Hexahydropyrido[4,3-b]indolyl ketone derivatives",
+        "assignee": "Ventus Therapeutics U.S., Inc.",
+        "priority_date": "2022-03-21",
+        "publication_date": "2023-09-28",
+        "core_scaffold": "Hexahydropyrido[4,3-b]indolyl ketone derivatives",
+        "vent03_link": "No explicit mention found",
+        "significance": "Earlier series, likely precursor to clinical candidate"
+      }
+    },
+    "prior_art": {
+      "WO2019153002A1": {
+        "title": "Tetrahydro-pyrido[4,3-b]indole inhibitors",
+        "priority_date": "2018-02-05",
+        "core_scaffold": "2,3,4,5-tetrahydro-1H-pyrido[4,3-b]indole derivatives",
+        "specific_compounds": "1-(3,4-dihydro-1H-pyrido[4,3-b]indol-2(5H)-yl)-2-hydroxyethanones",
+        "significance": "Prior art referenced in Ventus patents"
+      }
+    }
+  },
+  "patent_classification_codes": {
+    "medicinal_preparations": {
+      "A61K_31": "Medicinal preparations containing organic active ingredients",
+      "A61K_31_40": "Indoles",
+      "A61K_31_47": "Quinolines", 
+      "A61K_31_41": "Five-membered N-heterocycles",
+      "A61K_31_425": "Thiazoles",
+      "A61K_31_505": "Pyrimidines"
+    },
+    "organic_chemistry": {
+      "C07D_209": "Indoles",
+      "C07D_215": "Quinolines",
+      "C07D_231": "Pyrazoles",
+      "C07D_249": "Triazoles",
+      "C07D_277": "Thiazoles",
+      "C07D_307": "Furans",
+      "C07D_471": "Fused systems",
+      "C07D_487": "Fused systems",
+      "C07D_491": "Fused systems"
+    },
+    "therapeutic_activity": {
+      "A61P_37": "Drugs for immunological or allergic disorders",
+      "A61P_29": "Anti-inflammatory agents",
+      "A61P_25": "Drugs for nervous system disorders",
+      "A61P_35": "Antineoplastic agents"
+    }
+  },
+  "filing_trends_detailed": {
+    "2015": {
+      "estimated_families": "5-10",
+      "key_developments": "Post-discovery phase, initial academic filings"
+    },
+    "2016": {
+      "estimated_families": "10-15", 
+      "key_developments": "Increasing commercial interest"
+    },
+    "2017": {
+      "estimated_families": "20-30",
+      "key_developments": "Major players entering field"
+    },
+    "2018": {
+      "estimated_families": "30-40",
+      "key_developments": "Peak filing activity"
+    },
+    "2019": {
+      "estimated_families": "25-35",
+      "key_developments": "Sustained activity, diverse scaffolds"
+    },
+    "2020": {
+      "estimated_families": "25-35",
+      "key_developments": "Continued strong interest"
+    },
+    "2021": {
+      "estimated_families": "20-30",
+      "key_developments": "Optimization focus"
+    },
+    "2022": {
+      "estimated_families": "15-25",
+      "key_developments": "Clinical candidates emerging"
+    },
+    "2023": {
+      "estimated_families": "15-25",
+      "key_developments": "Clinical development focus"
+    },
+    "2024": {
+      "estimated_families": "10-20",
+      "key_developments": "Continued optimization, clinical results"
+    }
+  },
+  "geographic_strategy": {
+    "PCT_route": {
+      "percentage": ">75%",
+      "strategy": "International protection via WIPO",
+      "advantages": ["Delayed national phase decisions", "Broad geographic coverage", "Cost efficiency"]
+    },
+    "national_phases": {
+      "US": {
+        "percentage": ">75%",
+        "importance": "Primary market and innovation hub",
+        "patent_term": "20 years from filing"
+      },
+      "EP": {
+        "percentage": ">70%",
+        "importance": "Major commercial market",
+        "validation_countries": "Key EU markets"
+      },
+      "CN": {
+        "percentage": ">50%",
+        "importance": "Growing pharmaceutical market",
+        "trend": "Increasing national phase entry"
+      },
+      "JP": {
+        "percentage": ">50%",
+        "importance": "Established pharmaceutical market",
+        "characteristics": "High-value market for autoimmune therapies"
+      }
+    }
+  },
+  "fto_landscape": {
+    "foundational_patents": {
+      "university_of_texas": {
+        "role": "Foundational cGAS-STING pathway discoveries",
+        "licensing_strategy": "Often co-assigned or licensed to commercial entities",
+        "risk_level": "High - broad foundational claims"
+      }
+    },
+    "competitive_overlaps": {
+      "indole_derivatives": {
+        "companies": ["Novartis", "Merck"],
+        "risk_level": "Medium - multiple players in same chemical space"
+      },
+      "pyrido_indoles": {
+        "companies": ["Merck", "Ventus"],
+        "risk_level": "Medium - overlapping scaffold claims"
+      }
+    },
+    "novel_scaffolds": {
+      "azepino_indolones": {
+        "company": "Ventus",
+        "risk_level": "Low - novel chemical space",
+        "patent": "WO2024137752A1"
+      }
+    },
+    "mitigation_strategies": [
+      "Comprehensive FTO searches before clinical development",
+      "Novel scaffold development",
+      "Specific substitution patterns for design-around",
+      "Licensing negotiations for foundational IP",
+      "Geographic strategy optimization"
+    ]
+  }
+}

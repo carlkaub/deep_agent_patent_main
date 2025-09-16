@@ -1,0 +1,14 @@
+{
+  "compound_name": "Benzofuran_core",
+  "type": "scaffold",
+  "company": "",
+  "scaffold": "",
+  "status": "",
+  "description": "Benzofuran core structure",
+  "smiles": "c1ccc2occc2c1",
+  "iupac_name": "C8H6O",
+  "molecular_formula": "C8H6O",
+  "molecular_weight": "118.13",
+  "image_path": "/home/ubuntu/cgas_structures/images/Benzofuran_core.jpg",
+  "source": "Predefined scaffold"
+}

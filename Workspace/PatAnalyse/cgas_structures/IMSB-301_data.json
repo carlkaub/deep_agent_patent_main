@@ -1,0 +1,14 @@
+{
+  "compound_name": "IMSB-301",
+  "type": "clinical_candidate",
+  "company": "ImmuneSensor Therapeutics",
+  "scaffold": "quinoline",
+  "status": "Phase 1",
+  "description": "",
+  "smiles": "NC(=O)c1ccc2ccccc2n1",
+  "iupac_name": "C10H8N2O",
+  "molecular_formula": "C10H8N2O",
+  "molecular_weight": "172.19",
+  "image_path": "/home/ubuntu/cgas_structures/images/IMSB-301.jpg",
+  "source": "Fallback structure"
+}

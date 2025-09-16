@@ -1,0 +1,10 @@
+compound_name,type,company,scaffold,status,description,smiles,iupac_name,molecular_formula,molecular_weight,image_path,source
+IMSB-301,clinical_candidate,ImmuneSensor Therapeutics,quinoline,Phase 1,,NC(=O)c1ccc2ccccc2n1,C10H8N2O,C10H8N2O,172.19,/home/ubuntu/cgas_structures/images/IMSB-301.jpg,Fallback structure
+VENT-03,clinical_candidate,Ventus Therapeutics,"azepino[4,5-b]indolone",Phase 2,,O=c1[nH]c2ccccc2c2c1CCCCC2,C14H15NO,C14H15NO,213.28,/home/ubuntu/cgas_structures/images/VENT-03.jpg,Fallback structure
+G150,clinical_candidate,Roche,benzofuran-pyrimidine,Research compound,,c1cnc(-c2cc3ccccc3o2)nc1,C12H8N2O,C12H8N2O,196.21,/home/ubuntu/cgas_structures/images/G150.jpg,Fallback structure
+PF-06928215,clinical_candidate,Pfizer,early_inhibitor,Early compound,,CCN(CC)C(=O)c1ccc(N2CCOCC2)cc1,C15H22N2O2,C15H22N2O2,262.35,/home/ubuntu/cgas_structures/images/PF-06928215.jpg,Fallback structure
+"Azepino[4,5-b]indolone_core",scaffold,,,,Seven-membered ring fused to indolone core,O=c1[nH]c2ccccc2c2c1CCCCC2,C14H15NO,C14H15NO,213.28,"/home/ubuntu/cgas_structures/images/Azepino[4,5-b]indolone_core.jpg",Predefined scaffold
+Quinoline_core,scaffold,,,,Quinoline heterocycle,c1ccc2ncccc2c1,C9H7N,C9H7N,129.16,/home/ubuntu/cgas_structures/images/Quinoline_core.jpg,Predefined scaffold
+Indole_derivative,scaffold,,,,Representative indole derivative,c1ccc2[nH]ccc2c1,C8H7N,C8H7N,117.15,/home/ubuntu/cgas_structures/images/Indole_derivative.jpg,Predefined scaffold
+"Pyrido[4,3-b]indole_core",scaffold,,,,"Pyrido[4,3-b]indole core structure",c1ccc2c(c1)[nH]c1cnccc12,C11H8N2,C11H8N2,168.20,"/home/ubuntu/cgas_structures/images/Pyrido[4,3-b]indole_core.jpg",Predefined scaffold
+Benzofuran_core,scaffold,,,,Benzofuran core structure,c1ccc2occc2c1,C8H6O,C8H6O,118.13,/home/ubuntu/cgas_structures/images/Benzofuran_core.jpg,Predefined scaffold

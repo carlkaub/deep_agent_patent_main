@@ -1,0 +1,14 @@
+{
+  "compound_name": "VENT-03",
+  "type": "clinical_candidate",
+  "company": "Ventus Therapeutics",
+  "scaffold": "azepino[4,5-b]indolone",
+  "status": "Phase 2",
+  "description": "",
+  "smiles": "O=c1[nH]c2ccccc2c2c1CCCCC2",
+  "iupac_name": "C14H15NO",
+  "molecular_formula": "C14H15NO",
+  "molecular_weight": "213.28",
+  "image_path": "/home/ubuntu/cgas_structures/images/VENT-03.jpg",
+  "source": "Fallback structure"
+}

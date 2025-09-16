@@ -1,0 +1,14 @@
+{
+  "compound_name": "Pyrido[4,3-b]indole_core",
+  "type": "scaffold",
+  "company": "",
+  "scaffold": "",
+  "status": "",
+  "description": "Pyrido[4,3-b]indole core structure",
+  "smiles": "c1ccc2c(c1)[nH]c1cnccc12",
+  "iupac_name": "C11H8N2",
+  "molecular_formula": "C11H8N2",
+  "molecular_weight": "168.20",
+  "image_path": "/home/ubuntu/cgas_structures/images/Pyrido[4,3-b]indole_core.jpg",
+  "source": "Predefined scaffold"
+}

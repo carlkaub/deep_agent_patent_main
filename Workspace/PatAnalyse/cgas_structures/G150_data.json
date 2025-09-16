@@ -1,0 +1,14 @@
+{
+  "compound_name": "G150",
+  "type": "clinical_candidate",
+  "company": "Roche",
+  "scaffold": "benzofuran-pyrimidine",
+  "status": "Research compound",
+  "description": "",
+  "smiles": "c1cnc(-c2cc3ccccc3o2)nc1",
+  "iupac_name": "C12H8N2O",
+  "molecular_formula": "C12H8N2O",
+  "molecular_weight": "196.21",
+  "image_path": "/home/ubuntu/cgas_structures/images/G150.jpg",
+  "source": "Fallback structure"
+}
